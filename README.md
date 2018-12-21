@@ -4,7 +4,7 @@ Using Python and data science/visualization to figure out what it takes to make 
 # Demo as of 12/21/18: 
 
 # Running the script:
-![step1](https://https://github.com/aarondtaveras/NFL_HoF/images/step1.PNG)
+![step1](https://github.com/aarondtaveras/NFL_HoF/blob/master/images/step1.PNG)
 
 
 # The first stage in this project is to be able to take the statistics of NFL Hall of Famers and plot them using a scatter plot.

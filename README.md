@@ -1,6 +1,12 @@
 # NFL Hall of Fame
 Using Python and data science/visualization to figure out what it takes to make it into the NFL's Hall of Fame based on position and historical data.
 
+# Demo as of 12/21/18: 
+
+# Running the script:
+![step1](https://https://github.com/aarondtaveras/NFL_HoF/tree/master/images/step1.PNG)
+
+
 # The first stage in this project is to be able to take the statistics of NFL Hall of Famers and plot them using a scatter plot.
 
 This will give us a rough estimate of the type of stats a player would need to achieve Hall of Fame status. The program will receive one command line argument which is the position that the user would like to research. The program will then display the average relevant statistics needed for a player at this position to enter the Hall of Fame, and then plot all current Hall of Fame players on a scatter plot. The positions supported currently are: 'QB', 'RB', 'WR'.

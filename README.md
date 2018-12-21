@@ -1,11 +1,19 @@
 # NFL Hall of Fame
-Using Python and data science/visualization to figure out what it takes to make it into the NFL's Hall of Fame based on position and historical data.
+Using Python and data science/visualization (pandas, matplotlib, numpy) to figure out what it takes to make it into the NFL's Hall of Fame based on position and historical data.
 
 # Demo as of 12/21/18: 
 
-# Running the script:
+# Running the script with your desired Position:
 ![step1](https://github.com/aarondtaveras/NFL_HoF/blob/master/images/step1.PNG)
 
+# Selecting your options:
+![step2](https://github.com/aarondtaveras/NFL_HoF/blob/master/images/step2.PNG)
+
+# Graphical output:
+![step3](https://github.com/aarondtaveras/NFL_HoF/blob/master/images/step3.PNG)
+
+# Raw career averages by position:
+![step4](https://github.com/aarondtaveras/NFL_HoF/blob/master/images/step4.PNG)
 
 # The first stage in this project is to be able to take the statistics of NFL Hall of Famers and plot them using a scatter plot.
 
